@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/React-Authentication-With-Firebase-And-Routing/static/js/main.58e93426.chunk.js",
+    "main.js.map": "/React-Authentication-With-Firebase-And-Routing/static/js/main.58e93426.chunk.js.map",
+    "runtime-main.js": "/React-Authentication-With-Firebase-And-Routing/static/js/runtime-main.f08bc7b0.js",
+    "runtime-main.js.map": "/React-Authentication-With-Firebase-And-Routing/static/js/runtime-main.f08bc7b0.js.map",
+    "static/css/2.383c0125.chunk.css": "/React-Authentication-With-Firebase-And-Routing/static/css/2.383c0125.chunk.css",
+    "static/js/2.efb7b08b.chunk.js": "/React-Authentication-With-Firebase-And-Routing/static/js/2.efb7b08b.chunk.js",
+    "static/js/2.efb7b08b.chunk.js.map": "/React-Authentication-With-Firebase-And-Routing/static/js/2.efb7b08b.chunk.js.map",
+    "index.html": "/React-Authentication-With-Firebase-And-Routing/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/React-Authentication-With-Firebase-And-Routing/static/css/2.383c0125.chunk.css.map",
+    "static/js/2.efb7b08b.chunk.js.LICENSE.txt": "/React-Authentication-With-Firebase-And-Routing/static/js/2.efb7b08b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f08bc7b0.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.efb7b08b.chunk.js",
+    "static/js/main.58e93426.chunk.js"
+  ]
+}
