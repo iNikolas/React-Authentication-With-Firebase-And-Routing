@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1a33fbb-2ab9-43ff-83a1-974436d0f15e" name="Default Changelist" comment="" />
+    <list default="true" id="d1a33fbb-2ab9-43ff-83a1-974436d0f15e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ForgotPassword.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ProvateRoute.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UpdateProfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/contexts/AuthContext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="20VzeJ347qj98kLy8WIeHnoH905" />
   <component name="ProjectViewState">
@@ -17,7 +45,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="F:\React-Education\Projects\16-react-authentication-crash-course-with-firebase-and-routing\node_modules\prettier" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\React-Education\Projects\16-react-authentication-crash-course-with-firebase-and-routing\src\components" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -27,11 +61,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636144636757</updated>
-      <workItem from="1636144637803" duration="894000" />
+      <workItem from="1636144637803" duration="2812000" />
+      <workItem from="1636219640672" duration="21000" />
+      <workItem from="1636224137053" duration="11164000" />
+      <workItem from="1636277214470" duration="21000" />
+      <workItem from="1636302955712" duration="12516000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1636146341160">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="755" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1636146341160" />
+    <state x="805" y="168" key="FileChooserDialogImpl" timestamp="1636277233758">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="805" y="168" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1636277233758" />
   </component>
 </project>
